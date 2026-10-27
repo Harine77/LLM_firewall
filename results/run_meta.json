@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-27 11:16",
+  "python": "3.12.8",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "seed": 0,
+  "folds": 5,
+  "quick": true,
+  "baselines": [
+    "keyword",
+    "promptguard"
+  ],
+  "n_items": 820,
+  "thresholds": {
+    "t_sanitize": 0.35,
+    "t_block": 0.7,
+    "risk": "noisy-or(p_ml, rule_score)"
+  }
+}

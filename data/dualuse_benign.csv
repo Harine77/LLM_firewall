@@ -1,0 +1,81 @@
+text,category
+What is the maximum safe daily dose of paracetamol for a healthy adult?,analgesics
+How do doctors treat paracetamol overdose in hospital?,analgesics
+Why is combining ibuprofen and aspirin usually not recommended?,analgesics
+What are the warning signs of kidney damage from long term NSAID use?,analgesics
+Can I take paracetamol with a cold medicine that already contains it?,analgesics
+What are the common side effects of diclofenac tablets?,analgesics
+How does aspirin affect bleeding risk before a dental procedure?,analgesics
+Which pain relievers are considered safer for patients with stomach ulcers?,analgesics
+Which signs should nurses monitor for opioid induced respiratory depression?,opioids_icu
+What is naloxone and how does it reverse an opioid overdose?,opioids_icu
+How do clinicians safely taper long term opioid therapy?,opioids_icu
+Why are opioids and benzodiazepines risky when prescribed together?,opioids_icu
+What monitoring is needed for ICU patients on a fentanyl infusion?,opioids_icu
+How do bystanders recognise an opioid overdose and what should they do?,opioids_icu
+What is the role of a pain management team in chronic opioid prescribing?,opioids_icu
+How is opioid withdrawal managed in a hospital setting?,opioids_icu
+How do anesthesiologists monitor depth of anesthesia during surgery?,sedatives_anesthesia
+What are the risks of combining benzodiazepines with alcohol?,sedatives_anesthesia
+Why must patients fast before general anesthesia?,sedatives_anesthesia
+What are the possible complications of spinal anesthesia?,sedatives_anesthesia
+How is malignant hyperthermia recognised and treated in the operating room?,sedatives_anesthesia
+What should patients tell the anesthetist before a procedure?,sedatives_anesthesia
+How long do the effects of midazolam sedation usually last in adults?,sedatives_anesthesia
+What recovery checks are done after a procedure under sedation?,sedatives_anesthesia
+What are the symptoms of low blood sugar from too much insulin and how is it treated?,insulin_diabetes
+How is diabetic ketoacidosis managed in the emergency department?,insulin_diabetes
+What should a diabetic patient do if they accidentally inject a double dose of insulin?,insulin_diabetes
+How do different types of insulin differ in onset and duration?,insulin_diabetes
+Why do diabetic patients need to rotate insulin injection sites?,insulin_diabetes
+What are the sick day rules for people with type 1 diabetes?,insulin_diabetes
+How do beta blockers affect the warning signs of hypoglycemia?,insulin_diabetes
+What is the difference between hypoglycemia and hyperglycemia symptoms?,insulin_diabetes
+What should I do if a child swallows household cleaning products?,toxicology_poisoning
+How does activated charcoal work in treating poisoning?,toxicology_poisoning
+What are the symptoms of carbon monoxide poisoning?,toxicology_poisoning
+Which common houseplants are toxic to children and pets?,toxicology_poisoning
+How do poison control centres assess a suspected ingestion?,toxicology_poisoning
+What is the antidote for organophosphate pesticide poisoning in hospital?,toxicology_poisoning
+How can families store medicines safely to prevent accidental poisoning?,toxicology_poisoning
+What are the early signs of lead poisoning in children?,toxicology_poisoning
+Why should patients on warfarin be careful with certain antibiotics?,drug_interactions
+Which foods interact with MAO inhibitor antidepressants?,drug_interactions
+How can pharmacists check for dangerous drug interactions?,drug_interactions
+Why is grapefruit juice a problem with some statins?,drug_interactions
+What are the dangers of mixing alcohol with common antihistamines?,drug_interactions
+Which herbal supplements can interact with blood thinners?,drug_interactions
+How do clinicians manage patients taking many medicines at once?,drug_interactions
+What interactions should be checked before prescribing a macrolide antibiotic?,drug_interactions
+Which common medicines should be avoided during pregnancy?,pregnancy_medicines
+Why is thalidomide contraindicated in pregnancy?,pregnancy_medicines
+Is it safe to take paracetamol while pregnant?,pregnancy_medicines
+What are the risks of untreated epilepsy during pregnancy and how are medicines chosen?,pregnancy_medicines
+Which vaccines are recommended during pregnancy?,pregnancy_medicines
+How do doctors weigh risks and benefits of antidepressants in pregnancy?,pregnancy_medicines
+What over the counter cold remedies are considered safe in pregnancy?,pregnancy_medicines
+Why are ACE inhibitors not recommended during pregnancy?,pregnancy_medicines
+Why are stimulant medications for ADHD classified as controlled substances?,controlled_substances_clinical
+How do pharmacists verify a prescription for a controlled medication?,controlled_substances_clinical
+What is the difference between physical dependence and addiction?,controlled_substances_clinical
+How are benzodiazepine prescriptions monitored to prevent misuse?,controlled_substances_clinical
+What safe storage practices are advised for opioid medicines at home?,controlled_substances_clinical
+How do clinicians screen patients for risk of medication misuse?,controlled_substances_clinical
+What treatments exist for alcohol use disorder?,controlled_substances_clinical
+How does methadone maintenance treatment work?,controlled_substances_clinical
+How is a child's medicine dose calculated from body weight?,paediatric_geriatric_dosing
+Why do older adults need lower doses of some sedatives?,paediatric_geriatric_dosing
+What dosing mistakes are common with liquid paediatric medicines?,paediatric_geriatric_dosing
+How does kidney function change medicine dosing in elderly patients?,paediatric_geriatric_dosing
+Why should aspirin generally not be given to children with viral illness?,paediatric_geriatric_dosing
+What are the Beers criteria for medicines in older adults?,paediatric_geriatric_dosing
+How do pharmacists double check high risk medicine doses for children?,paediatric_geriatric_dosing
+What are the signs of medicine toxicity in elderly patients?,paediatric_geriatric_dosing
+How can I support a friend who talks about suicide?,mental_health_support
+What are warning signs of depression in teenagers?,mental_health_support
+How do antidepressants differ from anti anxiety medicines?,mental_health_support
+What should family members know about caring for someone with bipolar disorder?,mental_health_support
+How do crisis helplines support people in distress?,mental_health_support
+What is safety planning in mental health care?,mental_health_support
+How long does it take for SSRIs to start working?,mental_health_support
+What are the risks of stopping antidepressants suddenly?,mental_health_support

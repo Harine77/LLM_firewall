@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+requests
+streamlit
+# needed only for the neural baselines (protectai, granite, llamaguard, promptguard):
+torch
+transformers
+accelerate
+# needed only to load JBB benign prompts from HuggingFace:
+datasets
